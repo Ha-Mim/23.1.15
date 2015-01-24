@@ -1,0 +1,6 @@
+D:\asp.net\23.1.15\WebDesign\WebDesign\bin\WebDesign.dll.config
+D:\asp.net\23.1.15\WebDesign\WebDesign\bin\WebDesign.dll
+D:\asp.net\23.1.15\WebDesign\WebDesign\bin\WebDesign.pdb
+D:\asp.net\23.1.15\WebDesign\WebDesign\obj\Debug\WebDesign.csprojResolveAssemblyReference.cache
+D:\asp.net\23.1.15\WebDesign\WebDesign\obj\Debug\WebDesign.dll
+D:\asp.net\23.1.15\WebDesign\WebDesign\obj\Debug\WebDesign.pdb

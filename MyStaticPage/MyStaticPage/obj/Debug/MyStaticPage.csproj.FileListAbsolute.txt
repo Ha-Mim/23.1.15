@@ -1,0 +1,6 @@
+D:\asp.net\23.1.15\MyStaticPage\MyStaticPage\bin\MyStaticPage.dll.config
+D:\asp.net\23.1.15\MyStaticPage\MyStaticPage\bin\MyStaticPage.dll
+D:\asp.net\23.1.15\MyStaticPage\MyStaticPage\bin\MyStaticPage.pdb
+D:\asp.net\23.1.15\MyStaticPage\MyStaticPage\obj\Debug\MyStaticPage.csprojResolveAssemblyReference.cache
+D:\asp.net\23.1.15\MyStaticPage\MyStaticPage\obj\Debug\MyStaticPage.dll
+D:\asp.net\23.1.15\MyStaticPage\MyStaticPage\obj\Debug\MyStaticPage.pdb

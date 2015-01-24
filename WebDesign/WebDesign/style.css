@@ -1,0 +1,19 @@
+﻿.A {
+    width: 600px;
+    margin: 0 auto;
+    background-color: green;
+    padding: 30px;
+}
+
+.B {
+    background-color: yellow;
+    padding: 30px;
+}
+.C {
+    background-color: blue;
+    padding: 30px;
+}
+.D {
+    background-color: red;
+    padding: 30px;
+}
